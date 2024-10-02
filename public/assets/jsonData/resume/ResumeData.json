@@ -1,0 +1,124 @@
+{
+  "biographyData": [
+    {
+      "id": 1,
+      "title": "Name",
+      "info": "Yazeed Widyan"
+    },
+    {
+      "id": 2,
+      "title": "Birthday",
+      "info": "26 July, 1999"
+    },
+    {
+      "id": 4,
+      "title": "Address",
+      "info": "Amman, Mecca st"
+    },
+    {
+      "id": 5,
+      "title": "Email",
+      "info": "yazeedwidyany@gmail.com"
+    },
+    {
+      "id": 6,
+      "title": "Phone",
+      "info": "+(962)798965270"
+    }
+  ],
+  "skillData": [
+    {
+      "id": 2,
+      "icon": "fab fa-html5",
+      "title": "Advance frontend development",
+      "end": 100
+    },
+    {
+      "id": 1,
+      "icon": "fab fa-react",
+      "title": "React js",
+      "end": 100
+    },
+    {
+      "id": 1,
+      "icon": "fab fa-react",
+      "title": "Next js",
+      "end": 100
+    },
+    {
+      "id": 3,
+      "icon": "fab fa-react",
+      "title": "React Native",
+      "end": 100
+    },
+    {
+      "id": 5,
+      "icon": "fas fa-project-diagram",
+      "title": "Agile Methodologies",
+      "end": 95
+    },
+    {
+      "id": 6,
+      "icon": "fab fa-bootstrap",
+      "title": "Bootstrap",
+      "end": 95
+    },
+    {
+      "id": 7,
+      "icon": "fas fa-mobile-alt",
+      "title": "Responsive Web Design",
+      "end": 97
+    },
+    {
+      "id": 8,
+      "icon": "fas fa-cogs",
+      "title": "REST APIs",
+      "end": 96
+    },
+    {
+      "id": 9,
+      "icon": "fab fa-git",
+      "title": "Git",
+      "end": 95
+    }
+  ],
+  "educationData": [
+    {
+      "id": 2,
+      "title": "Internship",
+      "subTitle": "International Human Resources (IHR)",
+      "timeSpan": "Dec 2022 - May 2023",
+      "text": "Internship program with International Human Resources (IHR) focusing on real-world applications and experience."
+    },
+    {
+      "id": 3,
+      "title": "Bootcamp",
+      "subTitle": "Meraki Academy",
+      "timeSpan": "2017",
+      "text": "22-week Immersive Full-Stack Web Development Bootcamp with over 700+ hours of coding, building projects, and solving problems. "
+    }
+  ],
+  "experinceData": [
+    {
+      "id": 1,
+      "title": "React JS Developer",
+      "subTitle": "AlfaBep",
+      "timeSpan": "Mar 2024 - Present",
+      "text": "Currently developing and maintaining mobile applications with React Native and web applications with React JS for AlfaBep. Responsibilities include designing scalable UI components, managing application state, integrating with APIs, and ensuring a responsive user experience."
+    },
+    {
+      "id": 2,
+      "title": "React JS Developer",
+      "subTitle": "Bith TV",
+      "timeSpan": "Jun 2023 - May 2024",
+      "text": "Developing and maintaining mobile applications using React Native and web applications using React JS. Responsibilities include designing user interfaces, managing state, integrating with REST APIs, and ensuring high performance and responsiveness."
+    },
+    {
+      "id": 3,
+      "title": "React JS Developer",
+      "subTitle": "International Human Resources (IHR)",
+      "timeSpan": "Dec 2022 - May 2023",
+      "text": "Developed and maintained mobile applications using React Native and web applications using React JS. Responsibilities included designing user interfaces, managing state, integrating with REST APIs, and ensuring high performance and responsiveness."
+    }
+  ]
+}

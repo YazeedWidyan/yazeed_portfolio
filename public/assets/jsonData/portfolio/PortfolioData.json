@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "thumb": "bithtv.png",
+    "subTitle": "BithTV",
+    "title": "Frontend Development",
+    "arrowIcon": "fas fa-arrow-right",
+    "data": {
+      "project": "BithTV",
+      "projectType": "Website Development",
+      "projectMainThumb": "bithtv.png",
+      "link": "https://bith.tv/",
+      "overview": "Bith.AI is an AI-powered text-to-video web app tool that takes the hassle out of making videos for platforms like YouTube, TikTok, and Reels on Facebook ...",
+      "features": [
+        {
+          "title": "Edit Video",
+          "description": ""
+        }
+      ],
+      "technologies": [
+        {
+          "title": "Frontend",
+          "description": "Built with Reactjs, HTML, CSS, and JavaScript, ensuring a responsive and interactive user interface."
+        },
+        {
+          "title": "Version Control",
+          "description": "Managed the codebase using Git and hosted on GitHub, ensuring collaborative development and version tracking."
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "thumb": "sogakamer.png",
+    "subTitle": "Souqak Amer",
+    "title": "Frontend Development",
+    "arrowIcon": "fas fa-arrow-right",
+    "data": {
+      "project": "Souqak Amer",
+      "projectType": "Website Development",
+      "projectMainThumb": "sogakamer.png",
+      "link": "https://www.souqakamer.com/?fbclid=IwY2xjawFmc0NleHRuA2FlbQIxMAABHTPMFCwjr0G1DGAtLp_3GHUAnZxEUZfFjIQOKKYtzoHPNcUwD-VfCW0i1Q_aem_gn1AunRsl0FNtOkTofHw3g",
+      "overview": "Souqak Amer",
+      "features": [
+        {
+          "title": "Comprehensive Company Overview",
+          "description": "Highlights the mission, vision, and educational philosophy of HelloWorldKids, focusing on empowering the next generation of coders."
+        },
+        {
+          "title": "Platform Features Showcase",
+          "description": "Detailed descriptions of the coding platform, including interactive tutorials, coding challenges, and progress tracking tools designed for kids."
+        },
+        {
+          "title": "Success Stories",
+          "description": "Case studies and testimonials from parents and students, showcasing the impact of HelloWorldKids' platform on young learners."
+        },
+        {
+          "title": "Contact & Partnership Opportunities",
+          "description": "Information on how to get in touch with HelloWorldKids for partnerships, collaborations, or inquiries."
+        },
+        {
+          "title": "Mobile-Optimized Design",
+          "description": "Ensures a smooth user experience across all devices, including smartphones and tablets."
+        }
+      ],
+      "technologies": [
+        {
+          "title": "Frontend",
+          "description": "Built using Next.js, along with HTML, CSS, and JavaScript, providing a fast and scalable user experience."
+        },
+        {
+          "title": "Version Control",
+          "description": "Managed using Git and hosted on GitHub, enabling seamless collaboration and version management."
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "thumb": "ihrjobs1.png",
+    "subTitle": "iHRJobs",
+    "title": "Frontend Development",
+    "arrowIcon": "fas fa-arrow-right",
+    "data": {
+      "project": "iHRJobs",
+      "projectType": "Recruitment Website Development",
+      "projectMainThumb": "ihrjobs1.png",
+      "link": "https://www.ihrjobs.com",
+      "overview": "iHRJobs is a comprehensive recruitment platform designed to connect employers with potential candidates efficiently and effectively. The platform offers an intuitive user interface that simplifies the hiring process for both recruiters and job seekers.",
+      "features": [
+        {
+          "title": "Advanced Job Search",
+          "description": "A powerful search feature that allows users to filter job listings by location, industry, experience level, and more."
+        },
+        {
+          "title": "User Profiles & Resume Upload",
+          "description": "Candidates can create detailed profiles and upload their resumes, making it easier for recruiters to find the right match."
+        },
+        {
+          "title": "Employer Dashboard",
+          "description": "A dedicated dashboard for employers to post jobs, manage applications, and communicate directly with candidates."
+        },
+        {
+          "title": "Application Tracking",
+          "description": "A system that enables both recruiters and job seekers to track the status of applications in real-time."
+        },
+        {
+          "title": "Mobile-Responsive Design",
+          "description": "Optimized for mobile devices, ensuring a seamless experience for users on the go."
+        }
+      ],
+      "technologies": [
+        {
+          "title": "Frontend",
+          "description": "Developed using React.js, HTML, CSS, and JavaScript, ensuring a modern and responsive design."
+        },
+        {
+          "title": "Version Control",
+          "description": "Utilized Git for version control, with the codebase hosted on GitHub to facilitate collaborative development and maintain code integrity."
+        }
+      ],
+      "thumbs": ["ihrjobs2.png", "ihrjobs3.png"]
+    }
+  },
+  {
+    "id": 4,
+    "thumb": "search4course1.png",
+    "subTitle": "Search4Course",
+    "title": "Course Search Website",
+    "arrowIcon": "fas fa-arrow-right",
+    "data": {
+      "project": "Search4Course",
+      "projectType": "Website Development",
+      "projectMainThumb": "search4course1.png",
+      "link": "https://www.search4course.com",
+      "overview": "Search4Course is a global platform that helps students find and compare study courses from institutions around the world. The website provides detailed information on courses, allowing users to make informed decisions about their education.",
+      "features": [
+        {
+          "title": "Global Course Database",
+          "description": "Access to a vast database of courses offered by universities and educational institutions worldwide, searchable by location, field of study, and degree level."
+        },
+        {
+          "title": "Advanced Filtering Options",
+          "description": "Users can refine their search results based on criteria such as tuition fees, duration, mode of study, and language of instruction."
+        },
+        {
+          "title": "Detailed Course Information",
+          "description": "Comprehensive course descriptions, including curriculum details, entry requirements, and application deadlines."
+        },
+        {
+          "title": "User Reviews & Ratings",
+          "description": "A feature that allows students to read and leave reviews, providing insights into the experiences of past and current students."
+        },
+        {
+          "title": "Responsive Design",
+          "description": "Optimized for both desktop and mobile devices, ensuring a seamless user experience across all platforms."
+        }
+      ],
+      "technologies": [
+        {
+          "title": "Frontend",
+          "description": "Developed with Next.js, utilizing HTML, CSS, and JavaScript to deliver a fast, dynamic, and responsive interface."
+        },
+        {
+          "title": "Version Control",
+          "description": "Managed using Git, with the repository hosted on GitHub to facilitate teamwork and version control."
+        }
+      ],
+      "thumbs": ["search4course2.png", "search4course3.png"]
+    }
+  },
+  {
+    "id": 5,
+    "thumb": "ihrjobsapp1.png",
+    "subTitle": "iHRJobs App",
+    "title": "Mobile App Development",
+    "arrowIcon": "fas fa-arrow-right",
+    "data": {
+      "project": "iHRJobs App",
+      "projectType": "Mobile App Development",
+      "projectMainThumb": "ihrjobsapp1.png",
+      "link": "https://www.ihrjobs.com/app",
+      "overview": "The iHRJobs App is a mobile application designed to extend the functionality of the iHRJobs recruitment platform to mobile users. The app provides a user-friendly experience for both job seekers and employers, enabling them to search, apply, and manage jobs on the go.",
+      "features": [
+        {
+          "title": "Job Search & Application",
+          "description": "Users can search for jobs using various filters and apply directly through the app, streamlining the job application process."
+        },
+        {
+          "title": "Profile Management",
+          "description": "Allows users to create and update their profiles, upload resumes, and manage their job preferences from their mobile devices."
+        },
+        {
+          "title": "Push Notifications",
+          "description": "Real-time alerts for new job postings, application status updates, and messages from employers, keeping users informed and engaged."
+        },
+        {
+          "title": "Employer Dashboard",
+          "description": "A mobile-friendly dashboard for employers to post jobs, review applications, and communicate with candidates."
+        },
+        {
+          "title": "Offline Access",
+          "description": "Users can save job listings and profile updates to access them later, even without an internet connection."
+        }
+      ],
+      "technologies": [
+        {
+          "title": "Mobile Development",
+          "description": "Built using React Native, ensuring a seamless and responsive experience across both iOS and Android platforms."
+        },
+        {
+          "title": "Version Control",
+          "description": "Managed with Git, hosted on GitHub, allowing for continuous integration and collaborative development."
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "thumb": "ihrvision1.png",
+    "subTitle": "iHRVision",
+    "title": "HR App Development",
+    "arrowIcon": "fas fa-arrow-right",
+    "data": {
+      "project": "iHRVision",
+      "projectType": "Mobile HR App Development",
+      "projectMainThumb": "ihrvision1.png",
+      "link": "https://www.ihrvision.com",
+      "overview": "iHRVision is an HR management app designed to streamline employee attendance tracking, leave requests, and time-off management. The app provides an intuitive platform for both employees and HR departments to manage and monitor HR-related tasks efficiently.",
+      "features": [
+        {
+          "title": "Attendance Tracking",
+          "description": "Allows employees to clock in and out of work, with real-time attendance logs accessible to HR managers."
+        },
+        {
+          "title": "Leave Requests",
+          "description": "Enables employees to submit requests for days off or leaves, which can be reviewed and approved by managers directly through the app."
+        },
+        {
+          "title": "Leave Balance & History",
+          "description": "Employees can view their available leave balance and access a detailed history of past leaves and time off."
+        },
+        {
+          "title": "Push Notifications",
+          "description": "Provides instant notifications for leave request approvals, attendance reminders, and important HR announcements."
+        },
+        {
+          "title": "Employee Dashboard",
+          "description": "A personalized dashboard where employees can manage their profiles, view attendance records, and monitor leave status."
+        }
+      ],
+      "technologies": [
+        {
+          "title": "Mobile Development",
+          "description": "Developed with React Native, ensuring compatibility and a smooth experience on both iOS and Android devices."
+        },
+        {
+          "title": "Version Control",
+          "description": "Utilized Git for version control, with the codebase hosted on GitHub to support collaborative development and continuous integration."
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "thumb": "tab3app1.png",
+    "subTitle": "Tab3",
+    "title": "Sales Representative App",
+    "arrowIcon": "fas fa-arrow-right",
+    "data": {
+      "project": "Tab3",
+      "projectType": "Advanced Sales Application",
+      "projectMainThumb": "tab3app1.png",
+      "link": "https://www.tab3app.com",
+      "overview": "Tab3 is an advanced mobile application tailored for sales representatives, offering a comprehensive set of features that assist them in performing their tasks efficiently during fieldwork. The app ensures continuous connectivity with the company, enabling real-time tracking of movements and operations, which enhances performance monitoring and management.",
+      "features": [
+        {
+          "title": "Task Management",
+          "description": "Provides sales reps with a clear overview of their daily tasks, appointments, and goals, helping them stay organized and focused."
+        },
+        {
+          "title": "Route Optimization",
+          "description": "Automatically optimizes travel routes for sales reps, saving time and increasing efficiency during fieldwork."
+        },
+        {
+          "title": "Real-Time Communication",
+          "description": "Enables instant communication between sales reps and the company, allowing for quick updates, feedback, and support."
+        },
+        {
+          "title": "Performance Tracking",
+          "description": "Monitors and records the sales reps' activities and movements in real-time, providing the company with valuable insights into performance."
+        },
+        {
+          "title": "Sales Reporting",
+          "description": "Allows sales reps to submit detailed reports on sales activities, customer interactions, and market feedback directly through the app."
+        },
+        {
+          "title": "Offline Mode",
+          "description": "Ensures that sales reps can access essential features and record data even without an internet connection, syncing automatically when back online."
+        }
+      ],
+      "technologies": [
+        {
+          "title": "Mobile Development",
+          "description": "Developed using React Native, providing a responsive and user-friendly experience on both iOS and Android platforms."
+        },
+        {
+          "title": "Version Control",
+          "description": "Managed with Git, hosted on GitHub, ensuring efficient collaboration and version tracking."
+        }
+      ]
+    }
+  }
+]

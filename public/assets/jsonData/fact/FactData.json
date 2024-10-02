@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "end": 27,
+        "operator": "",
+        "title": "Completed Project"
+    },
+    {
+        "id": 2,
+        "end": 100,
+        "operator": "%",
+        "title": "Positive Rating"
+    }
+]

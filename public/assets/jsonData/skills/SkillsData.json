@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Website Design and Development",
+        "text": " Specializing in crafting visually appealing, responsive, and high-performance websites using modern frameworks like React.js. I design and develop websites that not only look stunning but also deliver seamless user experiences across all devices. My approach ensures that every website is optimized for speed, accessibility, and search engine performance.",
+        "icon": "1.png",
+        "thumbFull": ""
+    },
+    {
+        "id": 2,
+        "title": "Mobile Application Development",
+        "text": "Expert in developing robust, cross-platform mobile applications using React Native. I create apps that provide native-like performance and user experience on both iOS and Android devices. With a focus on efficiency and scalability, I ensure that mobile apps are intuitive, responsive, and equipped with the latest features to meet users' needs.",
+        "icon": "2.png",
+        "thumbFull": ""
+    }
+
+]

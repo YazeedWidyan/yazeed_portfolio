@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "icon": "fab fa-react",
+        "designation": "Professional React.js Developer",
+        "status": "Top Rated – UpWork"
+    },
+    {
+        "id": 2,
+        "icon": "fab fa-react",
+        "designation": "Expert React Native Developer",
+        "status": "Level Two Seller -  Fiver"
+    }
+]

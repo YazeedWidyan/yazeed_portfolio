@@ -49,7 +49,7 @@ const Banner = () => {
                 <div className="button mt-55">
                   <Link
                     className="btn btn-md circle btn-dark"
-                    href="/assets/docs/Yazeed Widyan.pdf"
+                    href="/assets/docs/YazeedWidyan.pdf"
                   >
                     My Resume
                   </Link>

@@ -49,9 +49,11 @@ const Banner = () => {
                 <div className="button mt-55">
                   <Link
                     className="btn btn-md circle btn-dark"
-                    href="/assets/docs/YazeedWidyan.pdf"
+                    href="https://drive.google.com/file/d/1_zqC2ynAm5YxIap_pInr0A_XvbyP6FJW/view?usp=drive_link"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
-                    My Resume
+                    View My Resume
                   </Link>
                 </div>
               </div>
